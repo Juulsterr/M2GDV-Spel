@@ -16,3 +16,4 @@ Boven aan de map het je het logo en het kannon.
 Midden en onder zijn bijna het zelfde gewoon de targets en het einde van de map en natuurlijk moet ik nog met de levels weergeven doen maar dat komt later want daar heb ik nog geen goed idee bij.
 # Levelschets
 ![alt text](<M2GVD voorbeeld Candy Crush X Peggle.jpg>) 
+.
