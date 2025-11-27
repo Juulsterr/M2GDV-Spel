@@ -18,5 +18,6 @@ Midden en onder zijn bijna het zelfde gewoon de targets en het einde van de map 
 ![alt text](<M2GVD voorbeeld Candy Crush X Peggle.jpg>) 
 # Random opdracht.
 ![alt text](<Alle gifjes/GDV-Random-opdracht.gif>)
-# Cannon opdracht
+# Cannon opdracht.
 ![alt text](<Alle gifjes/GDV-cannon-opdracht.gif>)
+Ik heb nog een kleine bug maar dat fix is volgende keer, ik snap het lesmateriaal ook!
