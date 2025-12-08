@@ -20,4 +20,6 @@ Midden en onder zijn bijna het zelfde gewoon de targets en het einde van de map 
 ![alt text](<Alle gifjes/GDV-Random-opdracht.gif>)
 # Cannon opdracht.
 ![alt text](<Alle gifjes/GDV-cannon-opdracht.gif>)
-Ik heb nog een kleine bug maar dat fix is volgende keer, ik snap het lesmateriaal ook!
+# multyplier opdracht.
+![alt text](<unity screenshots/multyplier opdracht.gif>)
+bug fixes van vorige opdracht de straal en gemaakte multyplier opdracht.
