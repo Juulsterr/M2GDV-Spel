@@ -23,3 +23,6 @@ Midden en onder zijn bijna het zelfde gewoon de targets en het einde van de map 
 # multyplier opdracht.
 ![alt text](<Alle gifjes/unityMultyplier.gif>)
 bug fixes van vorige opdracht de straal en gemaakte multyplier opdracht.
+# resultaat
+![alt text](<Alle gifjes/M2GDV-Laatste.gif>)
+Dit is het resultaat van de alle opdrachten niet alles is even goed gelukt maar ik ben blij met het eindresultaat en hoe ver ik ben gekomen en heb veel zin in de volgende opdrachten.
